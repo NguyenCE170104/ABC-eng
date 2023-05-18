@@ -45,7 +45,7 @@
 
 					
 					<hr width="700px"></hr>
-<div align:"left">
+
 					<form action="#">
 						<p>Email:<input style="align:center" type="text" size="90" placeholder="Please input your email"/></p>
 						<p>Full name:<input style="margin-right:28px" type="text" size="90" placeholder="Please input your full name"/><p>
@@ -75,7 +75,6 @@
 					<hr width="700px" noshade="noshade"></hr>
 					<input type="submit" value="Submit">
   					<input type="reset">
-</div>
   
 				</th>
 			</tr>
