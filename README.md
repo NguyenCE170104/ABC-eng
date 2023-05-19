@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 	<head>
 		<style>
@@ -35,30 +36,30 @@
 				</td>
 			</tr>
 			<tr>
-				<th colspan="2"><h3 style:"padding:20px">You can do it - We can help!</h3></th>
+				<th colspan="2"><h3 style:"padding:20px"><i>You can do it - We can help!</i></h3></th>
 			</tr>
 			<tr>
-				<th colspan="2">
+				<td colspan="2" style="text-align:center">
 	
 					<h1>MEMBER REGISTRATION FORM</h1>
-
-					
+				
+				
 					<hr width="700px"></hr>
 
 					<form action="#">
 						<p>Email:<input style="align:center" type="text" size="90" placeholder="Please input your email"/></p>
 						<p>Full name:<input style="margin-right:28px" type="text" size="90" placeholder="Please input your full name"/><p>
-						<p style="text-align:left; margin-left:94px">Gender:
-							<input  name="gender" type="radio" value="male" />Male 
+						<p style="margin-right:518px">Gender:
+							<input name="gender" type="radio" value="male" />Male 
 							<input name="gender" type="radio" value="female" />Female</p>
-						<p style="margin-right:572px"><span class="super">Country:</span>
+						<p style="margin-right:570px"><span class="super">Country:</span>
 							<select name="lang" id="lang-select" multiple size="4">
 								<option value="VN">Vietnam</option>
 								<option value="Thai">ThaiLand</option>
 								<option value="US">USA</option>
 								<option value="AU">Australia</option></p>
 							</select>
-						<p style="margin-right:380px">Hobby: 
+						<p style="margin-right:392px">Hobby: 
 							<input type="checkbox" name="hob" value="tra">Travelling
 							<input type="checkbox" name="hob" value="shop">Shopping
 							<input type="checkbox" name="hob" value="red">Reading</p>
@@ -69,13 +70,14 @@
 					<hr width="700px" noshade="noshade"></hr>
 
 					<p>Password:<input style="margin-right:500px" type="password" id="pwd" name="pwd" placeholder="Please enter password"> </p>
-					<p>Re-enter password:<input style="margin-right:564px" type="password" id="pwd" name="pwd" placeholder="Please re-enter password"> </p>
+					<p>Re-enter password:<input style="margin-right:560px" type="password" id="pwd" name="pwd" placeholder="Please re-enter password"> </p>
 
 					<hr width="700px" noshade="noshade"></hr>
 					<input type="submit" value="Submit">
   					<input type="reset">
+				</td>
   
-				</th>
+				
 			</tr>
 			<tr>
 				<th colspan="2">
